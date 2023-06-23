@@ -13,4 +13,4 @@ Modified circuit using traspiler on existing QLSTM models. We tried to make it h
 ## Team Member
 ##### Sumin Jin | @nineil91
 ##### Hyoseon KIM | @hyoseon-sno
-##### Hyeso OH | @oohhss8016
+##### Hyesoo OH | @oohhss8016
